@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+gql[aiohttp]
+websockets
+pydantic
+python-dotenv
